@@ -1,4 +1,4 @@
-# Tutorial for Desktop enviroment in wsl2 (wsl Arch distro)
+# Tutorial for Desktop enviroment in WSL2 (Arch distro)
 The tutorial will tell you how to run desktop environment inside Windows Subsystem for Linux. 
 And you don't need to build a developement environment with virtual machines any more.
 
@@ -52,7 +52,7 @@ with
 ```xml
 <listen>tcp:host=localhost, port=0</listen>
 ```
-
+and
 ```xml
 <auth>EXTERNAL</auth>
 ```
